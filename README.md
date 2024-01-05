@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=ataidemarcelo&color=blue" alt="Profile views" /></p>
+
+[ataidemarcelo.github.io](https://ataidemarcelo.github.io/)
+
 <!--
 **ataidemarcelo/ataidemarcelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
